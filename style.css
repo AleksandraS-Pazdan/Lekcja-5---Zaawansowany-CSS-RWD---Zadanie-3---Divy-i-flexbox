@@ -1,0 +1,33 @@
+.container {
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+    background-color: rgb(17, 184, 128);
+    flex-wrap: wrap;
+    display: flex;
+}
+.inside-box1 {
+    display: flex;
+    width: 50%;
+    height: 50%;
+    background-color: rgb(240, 240, 172);
+}
+.inside-box2 {
+    display: flex;
+    width: 50%;
+    height: 50%;
+    background-color: rgb(107, 107, 134);
+}
+.inside-box3 {
+    display: flex;
+    width: 50%;
+    height: 50%;
+    background-color: rgb(59, 120, 173);
+}
+.inside-box4 {
+    display: flex;
+    width: 50%;
+    height: 50%;
+    background-color: rgb(56, 155, 155);
+}
